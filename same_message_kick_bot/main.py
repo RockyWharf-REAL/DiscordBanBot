@@ -36,6 +36,7 @@ intents.moderation = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
+#Formats strings way they can be compared later.
 def string_formater(input):
     input = input.lower()
     input = input.replace(' ', '')

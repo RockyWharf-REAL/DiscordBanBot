@@ -1,0 +1,7 @@
+/abcBot/.env
+/same_message_kick_bot/.env
+/abcBot/discord.log
+/same_message_kick_bot/discord.log
+/same_message_kick_bot/OLDmessages.txt
+/same_message_kick_bot/messages.txt
+/user_kick_counter.json
